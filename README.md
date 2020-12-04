@@ -1,3 +1,4 @@
+If you found this repo useful, consider clicking the sponsor button near the top :) Sponsoring via GitHub is as little as $1/month and if you do not use banks or credit cards, there are crypto links included :)<br /><br />
 # Official Documentation for the Binance APIs and Streams.
 * Official Announcements regarding changes, downtime, etc. to the API and Streams will be reported here: **https://t.me/binance_api_announcements**
 * Streams, endpoints, parameters, payloads, etc. described in the documents in this repository are considered **official** and **supported**.
